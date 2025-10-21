@@ -1,4 +1,4 @@
-# Hide Rating Letterboxd
+# Hide Letterboxd Rating
 
 Une extension qui masque automatiquement les notes sur les films non vus sur Letterboxd, vous permettant de découvrir les films sans être influencé par les notes des autres utilisateurs.
 
