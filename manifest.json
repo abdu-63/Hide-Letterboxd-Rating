@@ -1,0 +1,48 @@
+{
+  "name": "Hide Rating Letterboxd",
+  "version": "1.2",
+  "description": "Cache les notes sur les films non vus sur Letterboxd",
+  "manifest_version": 2,
+  
+  "permissions": [
+    "activeTab",
+    "storage",
+    "contextMenus"
+  ],
+  
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  
+  "browser_action": {
+    "default_icon": {
+      "16": "icons/icon-16.png",
+      "48": "icons/icon-48.png",
+      "128": "icons/icon-128.png"
+    },
+    "default_title": "Toggle hide ratings"
+  },
+  
+  "content_scripts": [
+    {
+      "matches": ["*://letterboxd.com/*"],
+      "js": ["content.js"],
+      "css": ["styles.css"],
+      "run_at": "document_end"
+    }
+  ],
+  
+  "icons": {
+    "16": "icons/icon-16.png",
+    "48": "icons/icon-48.png",
+    "128": "icons/icon-128.png"
+  },
+
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "hide-rating-letterboxd@example.com",
+      "strict_min_version": "58.0"
+    }
+  }
+}
