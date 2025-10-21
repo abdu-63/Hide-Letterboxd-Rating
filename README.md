@@ -13,6 +13,7 @@ Une extension qui masque automatiquement les notes sur les films non vus sur Let
 ## 🔧 Installation
 
 Chrome Web Store : [Chrome Web Store](https://chrome.google.com/webstore) (lien à venir)
+
 Firefox Add-ons : [Firefox Add-ons Store](https://addons.mozilla.org) (lien à venir)
 
 ### Installation manuelle (développeurs)
