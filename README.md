@@ -12,9 +12,9 @@ Une extension qui masque automatiquement les notes sur les films non vus sur Let
 
 ## 🔧 Installation
 
-Chrome Web Store : [Chrome Web Store](https://chrome.google.com/webstore) (lien à venir)
+Firefox Add-ons : [Firefox Add-ons Store]([https://addons.mozilla.org](https://addons.mozilla.org/fr/firefox/addon/hide-letterboxd-rating/))
 
-Firefox Add-ons : [Firefox Add-ons Store](https://addons.mozilla.org) (lien à venir)
+Chrome : Veuillez suivre l'installation manuelle ci-dessous (promis c'est simple)
 
 ### Installation manuelle (développeurs)
 
@@ -46,6 +46,10 @@ Méthode 2
 ### Activation/Désactivation
 - **Clic sur l'icône** : Cliquez sur l'icône de l'extension dans la barre d'outils
 - **Menu contextuel** : Clic droit sur la page → "Activer/Désactiver le masquage des notes"
+
+## Problèmes / Aides
+
+Veuillez me contacter sur [Twitter](https://x.com/abduplt) @abduplt et me préciser l'erreur, merci !
 
 ## 🤝 Contribution
 
