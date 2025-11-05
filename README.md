@@ -1,8 +1,25 @@
+<div align="center">
+
 # Hide Letterboxd Rating
+<i>Une extension qui masque automatiquement les notes sur les films non vus sur Letterboxd, vous permettant de découvrir les films sans être influencé par les notes des autres utilisateurs.</i>
 
-Une extension qui masque automatiquement les notes sur les films non vus sur Letterboxd, vous permettant de découvrir les films sans être influencé par les notes des autres utilisateurs.
+<p>
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/abdu-63/cinelyon?style=for-the-badge&color=blue&label=last%20commit">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/abdu-63/cinelyon?style=for-the-badge&color=blue">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/abdu-63/cinelyon?style=for-the-badge&color=grey&label=languages">
+</p>
 
-## ✨ Fonctionnalités
+<p align="center">
+  <a href="https://www.w3.org/Style/CSS/">
+    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
+  </a>
+</p>
+</div>
+
+## Fonctionnalités
 
 - **Masquage intelligent** : Détecte automatiquement si un film est vu ou non
 - **Masquage complet** : Cache les histogrammes de notes, les notes des amis et les avis
@@ -10,7 +27,7 @@ Une extension qui masque automatiquement les notes sur les films non vus sur Let
 - **Compatible** : Fonctionne sur Firefox et Chrome
 - **Non-intrusif** : N'affecte que les films non vus
 
-## 🔧 Installation
+## Installation
 
 [Firefox Add-ons Store](https://addons.mozilla.org/fr/firefox/addon/hide-letterboxd-rating/)
 
@@ -41,7 +58,7 @@ Méthode 2
 4. Cliquez sur "Charger un module temporaire"
 5. Sélectionnez le fichier `manifest.json` de l'extension
 
-## 🚀 Utilisation
+## Utilisation
 
 ### Activation/Désactivation
 - **Clic sur l'icône** : Cliquez sur l'icône de l'extension dans la barre d'outils
@@ -51,7 +68,7 @@ Méthode 2
 
 Veuillez me contacter sur [Twitter](https://x.com/abduplt) @abduplt et me préciser l'erreur, merci !
 
-## 🤝 Contribution
+## Contribution
 
 Les contributions sont les bienvenues ! N'hésitez pas à :
 - Signaler des bugs
